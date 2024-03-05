@@ -18,6 +18,7 @@ I'm Roman Zinkevich, a Full Stack Developer currently studying Software Engineer
 
 ## 🌱 Current Projects
 
+- [Portfolio](https://romazinkevich.github.io/Portfolio/) - My portfolio website, projects can be seen there as well
 - [MeditationNotMedication](https://github.com/ZealinBee/MeditationNotMedication) - Meditation web application to ease chronic pain. Worked with my classmates, I contributed by doing backend
 - [REST Countries API](https://github.com/RomaZinkevich/REST-Countries-API) - Frontend Web-Application that shows information about different countries, using Vite+React and Countries API
   
