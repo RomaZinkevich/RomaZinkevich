@@ -5,20 +5,21 @@ I'm Roman Zinkevich, a Full Stack Developer currently studying Software Engineer
 ## 🚀 About Me
 
 - 🎓 Studying Software Engineering at TAMK, Tampere
-- 💻 Full Stack Developer, specializing in React and Express
+- 💻 Full Stack Developer, specializing in SpringBoot Java and React
 - 🌐 Always exploring new technologies to enhance my skills
 - 📚 When not coding, you'll find me immersed in a good book
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React, HTML, CSS, JS
-- **Backend:** Express.js
-- **Database:** MongoDB, PostgreSQL
-- **Tools:** Git, Docker
+- **Frontend:** React, Redux
+- **Backend:** SpringBoot, Java
+- **Database:** MongoDB, PostgreSQL, Redis
+- **Tools:** Git, Docker, DigitalOcean
 
 ## 🌱 Current Projects
 
 - [Portfolio](https://romazinkevich.github.io/Portfolio/) - My portfolio website, projects can be seen there as well
+- [TutorSwap](https://tutorswap.app/) - Developed and maintained the backend of a knowledge marketplace mobile app using Spring Boot. Managed server infrastructure on DigitalOcean, implemented REST APIs and real-time chat via WebSockets, and optimized performance with caching strategies
 - [MeditationNotMedication](https://github.com/ZealinBee/MeditationNotMedication) - Meditation web application to ease chronic pain. Worked with my classmates, I contributed by doing backend
 - [REST Countries API](https://github.com/RomaZinkevich/REST-Countries-API) - Frontend Web-Application that shows information about different countries, using Vite+React and Countries API
   
