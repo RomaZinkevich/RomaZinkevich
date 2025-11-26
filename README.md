@@ -19,7 +19,8 @@ I'm Roman Zinkevich, a Full Stack Developer currently studying Software Engineer
 ## 🌱 Current Projects
 
 - [Portfolio](https://romazinkevich.github.io/Portfolio/) - My portfolio website, projects can be seen there as well
-- [TutorSwap](https://tutorswap.app/) - Developed and maintained the backend of a knowledge marketplace mobile app using Spring Boot. Managed server infrastructure on DigitalOcean, implemented REST APIs and real-time chat via WebSockets, and optimized performance with caching strategies
+- [TutorSwap](https://tutorswap.app/) - Developed and maintained the backend of a knowledge marketplace mobile app using Spring Boot. Managed server infrastructure on DigitalOcean, implemented REST APIs and real-time chat via WebSockets, and optimised performance with caching strategies
+- [Hide-and-C](https://github.com/RomaZinkevich/Hide-n-C) - Developed a command-line steganography tool in C that hides and extracts secret messages in BMP, PNG, and JPG images using Least Significant Bit (LSB) encoding. Utilised the stb_image library for image processing and focused on efficient message embedding and retrieval
 - [MeditationNotMedication](https://github.com/ZealinBee/MeditationNotMedication) - Meditation web application to ease chronic pain. Worked with my classmates, I contributed by doing backend
 - [REST Countries API](https://github.com/RomaZinkevich/REST-Countries-API) - Frontend Web-Application that shows information about different countries, using Vite+React and Countries API
   
